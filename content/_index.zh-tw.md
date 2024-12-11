@@ -1,11 +1,11 @@
 ---
-title: CAPE
+title:
 toc: false
 ---
 
-<p style="text-align:center">
-  Confidential Analysis Privacy Enhancement
-</p>
+<!-- <p style="text-align:center"> -->
+<!--   Confidential Analysis Privacy Enhancement -->
+<!-- </p> -->
 
 <p align="center"><img src="/cape/images/cape_logo_3.svg"></p>
 

@@ -7,7 +7,7 @@ toc: false
   Confidential Analysis Privacy Enhancement
 </p>
 
-<p align="center"><img src="/cape/images/cape_logo_3.png"></p>
+<p align="center"><img src="/cape/images/cape_logo_3.svg"></p>
 
 ## Explore
 

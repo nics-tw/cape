@@ -12,7 +12,7 @@ toc: false
 ## Explore
 
 {{< cards >}}
-{{< card link="news" title="Team News" icon="newspaper" >}}
-{{< card link="blog" title="Tech Blog" icon="book-open" >}}
+{{< card link="news/" title="Team News" icon="newspaper" >}}
+{{< card link="blog/" title="Tech Blog" icon="book-open" >}}
 {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}

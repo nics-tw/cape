@@ -1,5 +1,5 @@
 ---
-title: Usage
+title: some blogs
 type: blog
 weight: 10
 sidebar:

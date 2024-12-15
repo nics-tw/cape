@@ -11,9 +11,9 @@ languages:
   en:
     languageName: English
     weight: 1
-  zh-tw:
-    languageName: 繁體中文
-    weight: 2
+  # zh-tw:
+  #   languageName: 繁體中文
+  #   weight: 2
 
 markup:
   # allow raw html
@@ -24,6 +24,8 @@ markup:
   # enable hextra syntax highlight
   highlight:
     noClasses: false
+
+enableInlineShortcodes: true
 
 menu:
   main:
@@ -67,6 +69,12 @@ params:
     # light | dark | system
     default: system
     displayToggle: true
+
+  highlight:
+    copy:
+      enable: true
+      # hover | always
+      display: hover
 
   editURL:
     enable: false

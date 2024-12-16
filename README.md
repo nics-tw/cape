@@ -35,8 +35,8 @@ Hugo Docs: https://gohugo.io/documentation/
 3. Notes for TOC and images:
    - TOC: `Hextra` generates TOC based on headings, H1 is used for post title and it won't show up in TOC. TOC only shows H2 and below.
    - Images: Since our website url is not base url, e.g. `https://nics-tw.github.io/`, but relative url, e.g. `https://nics-tw.github.io/cape/`, we need to add `/cape/` when doing image insertion:
-   - Marddown style: `![some pic](/cape/images/aaa.bbb)`
-   - HTML style: `<p align="center"><img src="/cape/images/aaa.bbb"></p>`
+     - Markdown style: `![some pic](/cape/images/aaa.bbb)`
+     - HTML style: `<p align="center"><img src="/cape/images/aaa.bbb"></p>`
 4. Front matter:
    - [Layouts](https://imfing.github.io/hextra/docs/guide/organize-files/#layouts)
    - [Sidebar Navigation](https://imfing.github.io/hextra/docs/guide/organize-files/#sidebar-navigation)

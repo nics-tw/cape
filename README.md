@@ -3,7 +3,9 @@
 ## Hugo Theme
 
 Hextra: https://github.com/imfing/hextra
+
 Theme Docs: https://imfing.github.io/hextra/docs/
+
 Hugo Docs: https://gohugo.io/documentation/
 
 - [Organize Files](https://imfing.github.io/hextra/docs/guide/organize-files/)
@@ -27,3 +29,21 @@ Hugo Docs: https://gohugo.io/documentation/
   - Custom Layouts
 
 ## Steps to add new posts
+
+1. Create new branches for new contents via `hugo new content/_index.md`, `hugo new content/docs/_index.md` etc.
+2. Optimzie images via [Clop](https://github.com/FuzzyIdeas/Clop) and store it in `static/images`.
+3. Notes for TOC and images:
+   a. TOC: `Hextra` generates TOC based on headings, H1 is used for post title and it won't show up in TOC. TOC only shows H2 and below.
+   b. Images: Since our website url is not base url, e.g. `https://nics-tw.github.io/`, but relative url, e.g. `https://nics-tw.github.io/cape/`, we need to add `/cape/` when doing image insertion:
+   c. Marddown style: `![some pic](/cape/images/aaa.bbb)`
+   d. HTML style: `<p align="center"><img src="/cape/images/aaa.bbb"></p>`
+4. Front matter:
+   a. [Layouts](https://imfing.github.io/hextra/docs/guide/organize-files/#layouts)
+   b. [Sidebar Navigation](https://imfing.github.io/hextra/docs/guide/organize-files/#sidebar-navigation)
+   c. [Breadcrumb Navigation](https://imfing.github.io/hextra/docs/guide/organize-files/#breadcrumb-navigation)
+   d. [LaTeX](https://imfing.github.io/hextra/docs/guide/latex/)
+   e. [Hugo Native](https://gohugo.io/content-management/front-matter/)
+   f. `next`: next post button on the end of the post, i.e. `next: docs/usage/`.
+   g. `prev`: previous post button on the end of the post, i.e. `prev: docs/`
+5. Preview the site locally: `hugo server --gc --disableFastRender`.
+   a. Images won't show properly since local url is base url.

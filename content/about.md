@@ -59,19 +59,23 @@ Our multidisciplinary team includes:
 
 * Odie Ke
   * Team Lead
-  * Senior ML Engineer
+  * Former Technical Policy Advisor for Government Digital Departments
   * Data Infrastructure Specialist
+  * Computer Vision & ML Researcher
+  * Functional Programming Enthusiast (Lisp)
 * Justyn Chen
-  * Senior Data Scientist & Engineer
+  * Data Scientist & Engineer
   * Expert in Data Governance
 * Alex Chen
-  * Data Scientist & Bayesian Statistician
+  * Data Scientist
+  * Bayesian Statistician
   * Expert in Privacy-enhancing Technologies
 * Joanne Chang
   * Program Manager
   * Project Coordination and Client Relations Specialist
 * Andy Hsu
-  * PhD-level Privacy-enhancing Techniques & ML Researcher
+  * Privacy-enhancing Techniques Researcher
+  * PhD-level ML Researcher
   * Academic-Industry Partnership Coordinator
 * Charles Chiu
   * DevOps Specialist

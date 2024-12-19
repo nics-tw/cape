@@ -64,7 +64,7 @@ Our multidisciplinary team includes:
   * Computer Vision & ML Researcher
   * Functional Programming Enthusiast (Lisp)
 * Justyn Chen
-  * Data Scientist & Engineer
+  * Full Stack Data Guru
   * Expert in Data Governance
 * Alex Chen
   * Data Scientist

@@ -52,3 +52,21 @@ We work across diverse sectors where data privacy is paramount, with a primary f
 We welcome opportunities across all industries where data privacy and analytical excellence are essential. 
 Our privacy-enhancing technologies and analytical frameworks can be adapted to meet the unique requirements of various sectors, 
 allowing us to deliver value across diverse business contexts while maintaining our commitment to data security and analytical rigor.
+
+## Our Team
+
+Our multidisciplinary team includes:
+
+* Odie Ke - 
+* Justyn Chen - 
+* Alex Chen -
+* Joanne Chang - 
+* Andy Hsu - 
+* Charles Chiu -
+
+## Contact us
+
+Ready to enhance your organization's data privacy and analytical capabilities? 
+Contact us to discuss how CAPE can support your objectives:
+
+* Email: wjke@nics.nat.gov.tw

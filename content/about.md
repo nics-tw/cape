@@ -69,12 +69,12 @@ Our multidisciplinary team includes:
 * Alex Chen
   * Data Scientist
   * Bayesian Statistician
-  * Expert in Privacy-enhancing Technologies
+  * Expert in Privacy-Enhancing Technologies
 * Joanne Chang
   * Program Manager
   * Project Coordination and Client Relations Specialist
 * Andy Hsu
-  * Privacy-enhancing Techniques Researcher
+  * Privacy-Enhancing Techniques Researcher
   * PhD-level ML Researcher
   * Academic-Industry Partnership Coordinator
 * Charles Chiu

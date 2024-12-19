@@ -7,7 +7,7 @@ type: about
 
 ## Who We Are
 
-CAPE (Confidential Analysis & Privacy Enhancement) is a specialized consulting team at the intersection of data privacy, analysis, and engineering. 
+CAPE (Confidential Analysis Privacy Enhancement) is a specialized consulting team at the intersection of data privacy, analysis, and engineering. 
 Our team comprises experienced data scientists and consultants with deep expertise in privacy-enhancing technologies and advanced analytics.
 
 We maintain strong research partnerships with Taiwan's leading universities, contributing to cutting-edge developments in differential privacy, synthetic data generation, federated learning, and homomorphic encryption. 

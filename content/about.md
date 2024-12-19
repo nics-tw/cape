@@ -57,12 +57,25 @@ allowing us to deliver value across diverse business contexts while maintaining 
 
 Our multidisciplinary team includes:
 
-* Odie Ke - 
-* Justyn Chen - 
-* Alex Chen -
-* Joanne Chang - 
-* Andy Hsu - 
-* Charles Chiu -
+* Odie Ke
+  * Team Lead
+  * Senior ML Engineer
+  * Data Infrastructure Specialist
+* Justyn Chen
+  * Senior Data Scientist & Engineer
+  * Expert in Data Governance
+* Alex Chen
+  * Data Scientist & Bayesian Statistician
+  * Expert in Privacy-enhancing Technologies
+* Joanne Chang
+  * Program Manager
+  * Project Coordination and Client Relations Specialist
+* Andy Hsu
+  * PhD-level Privacy-enhancing Techniques & ML Researcher
+  * Academic-Industry Partnership Coordinator
+* Charles Chiu
+  * DevOps Specialist
+  * Data Infrastructure Engineer
 
 ## Contact us
 

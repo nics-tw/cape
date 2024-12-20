@@ -74,8 +74,7 @@ Our multidisciplinary team includes:
   * Program Manager
   * Project Coordination and Client Relations Specialist
 * Andy Hsu
-  * Privacy-Enhancing Techniques Researcher
-  * PhD-level ML Researcher
+  * ML & Privacy-Enhancing Techniques Researcher
   * Academic-Industry Partnership Coordinator
 * Charles Chiu
   * DevOps Specialist

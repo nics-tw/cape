@@ -12,8 +12,8 @@ CAPE (Confidential Analysis Privacy Enhancement) is a specialized consulting tea
 ## Explore
 
 {{< cards >}}
-{{< card link="news/" title="Team News" icon="speakerphone" >}}
-{{< card link="blog/" title="Tech Blog" icon="beaker" >}}
+{{< card link="news/" title="News" icon="speakerphone" >}}
+{{< card link="blog/" title="Blog" icon="beaker" >}}
 {{< card link="foodie/" title="Foodie" icon="cake" >}}
 {{< card link="about" title="About" icon="user-group" >}}
 {{< /cards >}}

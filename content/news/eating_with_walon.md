@@ -1,6 +1,7 @@
 ---
 title: eating with walon
 type: news
+draft: true
 weight: 11
 sidebar:
   open: true

@@ -31,8 +31,8 @@ Our services span four key areas:
 
 ## Our Approach
 
-We believe that privacy and analytical power can coexist without compromise. 
-Our methodology combines rigorous privacy protection with advanced statistical techniques, ensuring that sensitive data remains secure while extracting maximum business value. 
+We believe that privacy and analytical power can coexist without compromise.
+Our methodology combines rigorous privacy protection with advanced statistical techniques, ensuring that sensitive data remains secure while extracting maximum business value.
 Each engagement begins with a thorough assessment of your privacy requirements and data objectives, followed by a customized solution design that aligns with your organizational goals.
 
 ## Why Choose CAPE
@@ -49,8 +49,8 @@ We work across diverse sectors where data privacy is paramount, with a primary f
 * Financial Services
 * Government and Public Sector
 
-We welcome opportunities across all industries where data privacy and analytical excellence are essential. 
-Our privacy-enhancing technologies and analytical frameworks can be adapted to meet the unique requirements of various sectors, 
+We welcome opportunities across all industries where data privacy and analytical excellence are essential.
+Our privacy-enhancing technologies and analytical frameworks can be adapted to meet the unique requirements of various sectors,
 allowing us to deliver value across diverse business contexts while maintaining our commitment to data security and analytical rigor.
 
 ## Our Team
@@ -64,12 +64,9 @@ Our multidisciplinary team includes:
   * Computer Vision & ML Researcher
   * Functional Programming Enthusiast (Lisp)
 * Justyn Chen
-  * Full Stack Data Guru
-  * Expert in Data Governance
-* Alex Chen
-  * Data Scientist
-  * Bayesian Statistician
-  * Expert in Privacy-Enhancing Technologies
+  * Recovering Data Scientist: Data and Model Goverance
+  * Open Source Contributor
+  * Evangelist of Digital Transformation and Innovation
 * Joanne Chang
   * Program Manager
   * Project Coordination and Client Relations Specialist
@@ -79,6 +76,13 @@ Our multidisciplinary team includes:
 * Charles Chiu
   * DevOps Specialist
   * Data Infrastructure Engineer
+
+### Alumni
+
+* Alex Chen (~Feb 2025)
+  * Data Scientist
+  * Bayesian Statistician
+  * Expert in Privacy-Enhancing Technologies
 
 ## Contact us
 

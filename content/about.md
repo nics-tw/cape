@@ -57,36 +57,36 @@ allowing us to deliver value across diverse business contexts while maintaining 
 
 Our multidisciplinary team includes:
 
-* Odie Ke
+* Odie Ke  <!-- Jul. 2024 ~ -->
   * Team Lead
   * Former Technical Policy Advisor for Government Digital Departments
   * Data Infrastructure Specialist
   * Computer Vision & ML Researcher
   * Functional Programming Enthusiast (Lisp)
-* Justyn Chen
+* Justyn Chen <!-- Oct. 2023 ~ now -->
   * Recovering Data Scientist: Data and Model Goverance
-  * Open Source Contributor
+  * Expert and Open Source Contributor in Privacy-Enhancing Technologies
   * Evangelist of Digital Transformation and Innovation
-* Joanne Chang
-  * Program Manager
-  * Project Coordination and Client Relations Specialist
-* Andy Hsu
+* Andy Hsu <!-- Sep. 2024 ~ now -->
   * ML & Privacy-Enhancing Techniques Researcher
   * Academic-Industry Partnership Coordinator
-* Charles Chiu
+* Charles Chiu  <!-- Nov. 2024 ~ now -->
   * DevOps Specialist
   * Data Infrastructure Engineer
 
 ### Alumni
 
-* Alex Chen (~Feb 2025)
+* Alex Chen (Dec. 2023 ~ Feb. 2025)
   * Data Scientist
   * Bayesian Statistician
   * Expert in Privacy-Enhancing Technologies
+* Joanne Chang (Dec. 2023 ~ Apr. 2025)
+  * Program Manager
+  * Project Coordination and Client Relations Specialist
 
 ## Contact us
 
-Ready to enhance your organization's data privacy and analytical capabilities? 
+Ready to enhance your organization's data privacy and analytical capabilities?
 Contact us to discuss how CAPE can support your objectives:
 
 * Email: wjke@nics.nat.gov.tw

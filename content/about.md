@@ -73,6 +73,13 @@ Our multidisciplinary team includes:
 * Charles Chiu  <!-- Nov. 2024 ~ now -->
   * DevOps Specialist
   * Data Infrastructure Engineer
+* Mikimoto Chuang <!-- Jul. 2025 ~ now -->
+  * Founder of MOPCON
+  * Apple MFi Certified Chief Engineer
+  * Lead Engineer of iOS/Android & Backend
+  * Senior Architect
+  * Software Engineering & Relational Database Expert
+  * Swift Enthusiast
 
 ### Alumni
 

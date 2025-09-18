@@ -1,5 +1,5 @@
 ---
-title: DP
+title: DP - Data Protection
 toc: false
 ---
 
@@ -18,9 +18,9 @@ Starting August 1, 2025, we have officially rebranded from **CAPE (Confidential 
 
 ## 我們的服務 / Our Services
 
-資料保護組是一個專門從事資料隱私與先進分析整合的顧問團隊。我們與台灣頂尖大學密切合作，運用最先進的隱私強化技術，包括差分隱私、合成數據生成和聯邦學習。我們的專家團隊提供隱私保護分析、資料策略諮詢和人工智慧整合解決方案，確保組織在維持最高隱私和安全標準的同時，能夠充分發揮資料的價值。
+DP 資料保護組是一個專門從事全方位資料保護的顧問團隊。我們的專業涵蓋多個關鍵領域：**資料架構設計**、**資料治理框架**、**資料工程實踐**、**隱私納入設計（Privacy by Design）** 以及 **隱私強化技術**（包括差分隱私、合成數據生成和聯邦學習）。我們與台灣頂尖大學密切合作，確保組織能建立穩健的資料基礎設施，同時實現最高標準的隱私保護和資料價值最大化。
 
-DP team is a specialized consulting team merging data privacy with advanced analytics. Working closely with Taiwan's leading universities, we leverage cutting-edge privacy-enhancing technologies including differential privacy, synthetic data generation, and federated learning. Our expert team delivers privacy-preserving analytics, data strategy consulting, and AI integration solutions, ensuring organizations can maximize data value while maintaining the highest standards of privacy and security.
+DP (Data Protection Team) is a specialized consulting team providing comprehensive data protection services. Our expertise spans multiple critical domains: **data architecture design**, **data governance frameworks**, **data engineering practices**, **Privacy by Design implementation**, and **privacy-enhancing technologies** (including differential privacy, synthetic data generation, and federated learning). Working closely with Taiwan's leading universities, we ensure organizations can build robust data infrastructure while achieving the highest standards of privacy protection and maximizing data value.
 
 ## 探索 / Explore
 

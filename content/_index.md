@@ -18,9 +18,9 @@ Starting August 1, 2025, we have officially rebranded from **CAPE (Confidential 
 
 ## 我們的服務 / Our Services
 
-DP 資料保護組是一個專門從事全方位資料保護的顧問團隊。我們的專業涵蓋多個關鍵領域：**資料架構設計**、**資料治理框架**、**資料工程實踐**、**隱私納入設計（Privacy by Design）** 以及 **隱私強化技術**（包括差分隱私、合成數據生成和聯邦學習）。我們與台灣頂尖大學密切合作，確保組織能建立穩健的資料基礎設施，同時實現最高標準的隱私保護和資料價值最大化。
+DP 資料保護組專注於四大核心領域：隱私導向工程架構、資料治理與法遵框架、隱私強化技術研發，以及資料驅動決策與 AI 導入服務。我們將隱私納入設計原則融入資料工程架構，建立符合個資法規的治理體系，透過差分隱私、聯邦學習等先進技術提供實務解決方案，並提供資料分析、策略規劃與大型語言模型（LLM）等 AI 技術導入的全方位顧問諮詢服務，協助組織在確保隱私保護的前提下充分發揮資料價值。與台灣頂尖大學的密切合作，確保我們的方法論始終處於資料保護領域的最前沿。
 
-DP (Data Protection Team) is a specialized consulting team providing comprehensive data protection services. Our expertise spans multiple critical domains: **data architecture design**, **data governance frameworks**, **data engineering practices**, **Privacy by Design implementation**, and **privacy-enhancing technologies** (including differential privacy, synthetic data generation, and federated learning). Working closely with Taiwan's leading universities, we ensure organizations can build robust data infrastructure while achieving the highest standards of privacy protection and maximizing data value.
+DP (Data Protection Team) specializes in four core domains: Privacy-Oriented Engineering Architecture, Data Governance & Compliance Framework, Privacy-Enhancing Technology R&D, and Data-Driven Decision & AI Implementation Services. We integrate Privacy by Design principles into data engineering architectures, establish governance systems compliant with data protection regulations, provide practical solutions through advanced technologies like differential privacy and federated learning, and offer comprehensive consulting services in data analytics, strategy planning, and implementation of AI technologies including Large Language Models (LLMs), helping organizations maximize data value while ensuring privacy protection. Our close collaboration with Taiwan's leading universities ensures our methodologies remain at the forefront of data protection.
 
 ## 探索 / Explore
 

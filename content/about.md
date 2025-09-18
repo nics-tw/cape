@@ -7,13 +7,13 @@ type: about
 
 ## 我們是誰 / Who We Are
 
-DP（資料保護組）是一個專注於資料隱私、分析與工程交集的專業顧問團隊。我們的團隊由經驗豐富的資料科學家和顧問組成，在隱私強化技術和先進分析方面擁有深厚的專業知識。
+DP（資料保護組）是一個專注於全方位資料保護的專業顧問團隊。我們專精於四大核心領域：隱私導向工程架構、資料治理與法遵框架、隱私強化技術研發，以及資料驅動決策與 AI 導入服務。團隊由經驗豐富的資料科學家、工程師和顧問組成，致力於協助組織建立完善的資料保護體系。
 
-DP (Data Protection Team) is a specialized consulting team at the intersection of data privacy, analysis, and engineering. Our team comprises experienced data scientists and consultants with deep expertise in privacy-enhancing technologies and advanced analytics.
+DP (Data Protection Team) is a specialized consulting team focused on comprehensive data protection. We specialize in four core domains: Privacy-Oriented Engineering Architecture, Data Governance & Compliance Framework, Privacy-Enhancing Technology R&D, and Data-Driven Decision & AI Implementation Services. Our team comprises experienced data scientists, engineers, and consultants dedicated to helping organizations establish robust data protection systems.
 
-我們與台灣頂尖大學保持緊密的研究合作關係，為差分隱私、合成數據生成、聯邦學習和同態加密等前沿發展做出貢獻。這種學術合作確保我們的方法論始終處於隱私保護數據科學的最前沿。
+我們與台灣頂尖大學保持緊密的研究合作關係，在差分隱私、合成數據生成、聯邦學習、同態加密等隱私強化技術領域進行深度研發，同時在資料治理框架、隱私納入設計原則和資料架構最佳實踐方面持續創新。這種產學合作確保我們的方法論始終處於資料保護領域的最前沿。
 
-We maintain strong research partnerships with Taiwan's leading universities, contributing to cutting-edge developments in differential privacy, synthetic data generation, federated learning, and homomorphic encryption. This academic collaboration ensures our methodologies remain at the forefront of privacy-preserving data science.
+We maintain strong research partnerships with Taiwan's leading universities, conducting deep R&D in privacy-enhancing technologies such as differential privacy, synthetic data generation, federated learning, and homomorphic encryption, while continuously innovating in data governance frameworks, Privacy by Design principles, and data architecture best practices. This academic-industry collaboration ensures our methodologies remain at the forefront of data protection.
 
 我們獨特的方法結合了複雜的貝氏統計和機器學習技術，專注於提供可操作的洞見。我們擅長將複雜的分析發現轉化為清晰的策略建議，為企業創造價值。
 
@@ -25,21 +25,29 @@ Our comprehensive data engineering capabilities encompass system architecture de
 
 ## 我們的服務 / What We Do
 
-DP 作為您在複雜的資料隱私和分析領域中的策略合作夥伴。我們的服務涵蓋四個關鍵領域：
+DP 作為您在資料保護全生命週期的策略合作夥伴，專注於四大核心領域：
 
-DP serves as your strategic partner in navigating the complex landscape of data privacy and analytics. Our services span four key areas:
+DP serves as your strategic partner throughout the entire data protection lifecycle, focusing on four core domains:
 
-1. **隱私保護分析**：我們提供強大的資料分析解決方案，維持最高標準的資料隱私和安全。
-   **Privacy-Preserving Analytics**: We deliver robust data analysis solutions that maintain the highest standards of data privacy and security.
+### 1. 隱私導向工程架構 / Privacy-Oriented Engineering Architecture
+設計並實施符合隱私納入設計（Privacy by Design）原則的資料工程架構，從系統設計階段就將隱私保護融入每個環節，確保資料在整個生命週期中的安全性。
 
-2. **隱私強化技術實施**：我們指導組織評估、選擇和部署符合其特定需求的尖端隱私強化技術。
-   **Privacy Enhancement Implementation**: We guide organizations through the evaluation, selection, and deployment of cutting-edge privacy-enhancing technologies tailored to their specific needs.
+Design and implement data engineering architectures that comply with Privacy by Design principles, integrating privacy protection into every aspect from the system design stage, ensuring data security throughout its entire lifecycle.
 
-3. **資料策略諮詢**：我們在資料分析方法論和工程架構方面提供專業諮詢，協助組織建立可擴展、高效的資料生態系統。
-   **Data Strategy Consulting**: We provide expert consultation on data analysis methodologies and engineering architectures, helping organizations build scalable, efficient data ecosystems.
+### 2. 資料治理與法遵框架 / Data Governance & Compliance Framework
+建立完整的資料治理體系，包含資料分類、存取控制、稽核機制，並確保符合個人資料保護法、GDPR 等國內外法規要求。
 
-4. **AI 整合服務**：我們支援組織將大型語言模型和其他 AI 技術無縫整合到現有工作流程中，確保效率和合規性。
-   **AI Integration Services**: We support organizations in seamlessly incorporating large language models and other AI technologies into their existing workflows, ensuring both efficiency and compliance.
+Establish comprehensive data governance systems, including data classification, access control, audit mechanisms, and ensure compliance with domestic and international regulations such as Personal Data Protection Act and GDPR.
+
+### 3. 隱私強化技術研發 / Privacy-Enhancing Technology R&D
+進行學術研究並提供實務解決方案，包括差分隱私、聯邦學習、同態加密、安全多方計算等先進技術的研發與應用。
+
+Conduct academic research and provide practical solutions, including R&D and application of advanced technologies such as differential privacy, federated learning, homomorphic encryption, and secure multi-party computation.
+
+### 4. 資料驅動決策與 AI 導入服務 / Data-Driven Decision & AI Implementation Services
+提供資料分析、策略規劃與 AI 技術導入的全方位顧問諮詢服務，協助組織制定資料驅動決策框架，並在確保隱私保護的前提下，安全整合大型語言模型（LLM）和其他人工智慧技術。
+
+Provide comprehensive consulting services in data analytics, strategy planning, and AI technology implementation, assist organizations in developing data-driven decision frameworks, and securely integrate Large Language Models (LLMs) and other artificial intelligence technologies while ensuring privacy protection.
 
 ## 我們的方法 / Our Approach
 

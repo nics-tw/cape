@@ -3,8 +3,12 @@ title: DP
 
 # import hextra as module
 module:
+  hugoVersion:
+    extended: true
+    min: "0.146.0"
   imports:
     - path: github.com/imfing/hextra
+      version: v0.12.3
 
 defaultContentLanguage: en
 languages:

@@ -9,10 +9,10 @@ module:
 defaultContentLanguage: en
 languages:
   en:
-    languageName: English
+    label: English
     weight: 1
   # zh-tw:
-  #   languageName: 繁體中文
+  #   label: 繁體中文
   #   weight: 2
 
 markup:

@@ -3,7 +3,7 @@ title: About
 type: about
 ---
 
-<p align="center"><img src="/cape/images/20250919_dp_creation.jpeg"></p>
+<p align="center"><img src="/nics-dp/images/20250919_dp_creation.jpeg"></p>
 
 <p align="center"><em>慶祝資料保護組成立，2025年9月19日攝於臺南阿菊食堂 / Celebrating the establishment of the Data Protection Team, photographed at A-Ju Restaurant in Tainan on Sep‘ 19, 2025</em></p>
 

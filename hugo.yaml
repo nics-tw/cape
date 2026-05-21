@@ -67,7 +67,7 @@ params:
     logo:
       path: images/dp_logo_2_black.svg
       dark: images/dp_logo_2_white.svg
-      link: /cape
+      link: /nics-dp
       width: 40
       height: 20
 

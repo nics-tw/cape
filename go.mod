@@ -1,4 +1,4 @@
-module github.com/imfing/hextra-starter-template
+module github.com/nics-dp/nics-dp
 
 go 1.21
 

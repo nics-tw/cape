@@ -127,6 +127,10 @@ Our multidisciplinary team includes:
   * 資深後端工程師 / Senior Backend Engineer  
   * 基礎設施工程師 / Infrastructure Engineer
 
+* **Evan Wu** <!-- May. 2026 ~ now -->
+  * 資深 iOS 工程師 / Senior iOS Engineer
+  * 後端工程師 / Backend Engineer
+
 ### 前團隊成員 / Alumni
 
 * **Jojo Chien** (Apr. ~ Sep. 2025)

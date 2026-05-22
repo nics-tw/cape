@@ -7,4 +7,4 @@ sidebar:
   open: true
 ---
 
-<p align="center"><img src="/cape/images/odie_walon.jpeg"></p>
+<p align="center"><img src="/nics-dp/images/odie_walon.jpeg"></p>

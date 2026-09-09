@@ -131,7 +131,7 @@ Our multidisciplinary team includes:
   * 資深 iOS 工程師 / Senior iOS Engineer
   * 後端工程師 / Backend Engineer
 
-* **Justin Lee**  <!-- Jun. 2026 ~ now --->
+* **Justin Lee** <!-- Jun. 2026 ~ now -->
   * 技術專案經理 / Technical Program Manager
   * 解決方案工程師 / Solution Engineer
   * 資深後端工程師 / Senior Backend Engineer
